@@ -1,0 +1,4 @@
+[package]
+org = "lakshanweerasinghe"
+name = "rabbitmq_producer_healthcare"
+version = "0.1.0"
