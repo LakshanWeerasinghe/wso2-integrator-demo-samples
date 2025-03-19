@@ -1,0 +1,17 @@
+
+# Configuration file for "rabbitmq_producer_healthcare"
+# 
+# This file contains configuration values for configurable variables in your Ballerina code.
+# Both package-specific and imported module configurations are included below.
+# 
+# Learn more about configurable variables:
+# https://ballerina.io/learn/provide-values-to-configurable-variables/#provide-via-toml-syntax
+#
+# Note: This file is automatically added to .gitignore to protect sensitive information. 
+
+rabbitmqVHost = "/"	# Type of STRING
+
+rabbitmqPassword = "securepassword"	# Type of STRING
+
+rabbitmqUsername = "ehr_admin"	# Type of STRING
+

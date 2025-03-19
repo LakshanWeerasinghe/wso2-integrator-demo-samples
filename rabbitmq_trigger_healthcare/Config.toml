@@ -1,0 +1,21 @@
+
+# Configuration file for "rabbitmq_trigger_healthcare"
+# 
+# This file contains configuration values for configurable variables in your Ballerina code.
+# Both package-specific and imported module configurations are included below.
+# 
+# Learn more about configurable variables:
+# https://ballerina.io/learn/provide-values-to-configurable-variables/#provide-via-toml-syntax
+#
+# Note: This file is automatically added to .gitignore to protect sensitive information. 
+
+dbPort = 0	# Type of INTEGER
+
+dbName = ""	# Type of STRING
+
+dbHost = ""	# Type of STRING
+
+dbUsername = ""	# Type of STRING
+
+dbPassword = ""	# Type of STRING
+
